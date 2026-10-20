@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do OPaiJoga 😁
+## Bem-vindo(a) ao perfil do Eduardo Loureiro 😁
 
  <div>
    <a href="https://github.com/OPaiJoga">
